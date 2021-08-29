@@ -1,2 +1,2 @@
 # Site Collection
-A collection of websites to help with Temp-Emails, and temporary phone numbers. These can be used to sign up for spam website accounts, or discord verification etc...
+- https://temp-sms.org/ | Phone Numbers.
