@@ -1,2 +1,2 @@
-# Site Collection
-- https://temp-sms.org/ | Phone Numbers.
+# Temporary Phone Numbers.
+- https://temp-sms.org/
