@@ -17,6 +17,5 @@
 
 # Broswers
 - [TOR Browser](https://www.torproject.org/) | An anonymous browser that uses onion routing to mask your ip and grant access to .onion sites.
-- [Brave](https://brave.com) | Privacy focused browser with built in tracker and ad blockingg with built in tracker and ad blockinggad blocking.ockingg with built in tracker and ad blockinggad blocking.
-- [FireFox](https://firefox.com) | A very customizable open source browser with a large amout of extentions like tab containers which can make it difficult to be tracked across the web through the use of cookies. Can be hardened easily using [ffprofile](ffprofile.com).ofile.com).om).er and ad blockingg with built in tracker and ad blockinggad blocking.ockingg with built in tracker and ad blockinggad blocking.
+- [Brave](https://brave.com) | Privacy focused browser with built in tracker and ad blocking.
 - [FireFox](https://firefox.com) | A very customizable open source browser with a large amout of extentions like tab containers which can make it difficult to be tracked across the web through the use of cookies. Can be hardened easily using [ffprofile](ffprofile.com).
