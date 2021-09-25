@@ -6,14 +6,17 @@
 - https://temp-number.org/
 - https://temp-sms.org/
 
-# Chrome/Broswer Extensions
-- https://chrome.google.com/webstore/detail/anti-grabify/mdiikcjojbiohaoechokgkdiodcfokpn | Anti Grabify. (IP Logger)
-- https://universal-bypass.org/ | Bypass Adfly links, or any redirect linkes that force you to go through sketchy sites.
-- https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en | Custom Script engine for the broswer.
-- https://chrome.google.com/webstore/detail/clean-all-history-cache-c/elidgjfpciimeeeoeneeiifkmhadhkeh?hl=en | Cleans your brosing history on startup. (Has to be enabled)
-- https://chrome.google.com/webstore/detail/windscribe-free-proxy-and/hnmpcagpplmpfojmgmnngilcnanddlhb?hl=en | Windscribe VPN/Proxy extension.
-- https://chrome.google.com/webstore/search/vpn?hl=en | VPN's. Find one that suits you.
+# Broswer Extensions
+
+- [Privacy Badger](https://privacybadger.org/) | blocks invisible trackers
+- [Ublock Origin](https://ublockorigin.com/) | Browser extention that blocks ads and trackers. Can also be configured to block javascript which is used often in web trackers.
+- [Clear URLs](https://clearurls.xyz/) | Removes tracking elements in urls (Very noticeable on Amazon).
+- [HTTPS Everywhere] | Automatically upgrades http connections to https when possible. Will otherwise show a warning.
+- [Universal Bypass](https://universal-bypass.org/) | Bypass url shorteners and also blocks ipgrabbers.
+- [TamperMonkey](https://www.tampermonkey.net) | Custom Script engine for the broswer.
 
 # Broswers
-- https://www.torproject.org/ | An anonymous browser. (Use with severall VPNs and Proxy's and your good to go).
-- 
+- [TOR Browser](https://www.torproject.org/) | An anonymous browser that uses onion routing to mask your ip and grant access to .onion sites.
+- [Brave](https://brave.com) | Privacy focused browser with built in tracker and ad blockingg with built in tracker and ad blockinggad blocking.ockingg with built in tracker and ad blockinggad blocking.
+- [FireFox](https://firefox.com) | A very customizable open source browser with a large amout of extentions like tab containers which can make it difficult to be tracked across the web through the use of cookies. Can be hardened easily using [ffprofile](ffprofile.com).ofile.com).om).er and ad blockingg with built in tracker and ad blockinggad blocking.ockingg with built in tracker and ad blockinggad blocking.
+- [FireFox](https://firefox.com) | A very customizable open source browser with a large amout of extentions like tab containers which can make it difficult to be tracked across the web through the use of cookies. Can be hardened easily using [ffprofile](ffprofile.com).
